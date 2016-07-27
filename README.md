@@ -44,7 +44,6 @@ Projeto ABERTO e GRATUITO para criar a NFe para Node.js
 
 # Exemplo XML FUNCIONANDO
 
-[http://invoicy.com.br/BR/InvoiCy/Brasil/documentos/Exemplo_NFeSimples.xml](http://invoicy.com.br/BR/InvoiCy/Brasil/documentos/Exemplo_NFeSimples.xml)
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
